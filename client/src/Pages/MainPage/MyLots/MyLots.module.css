@@ -1,0 +1,42 @@
+.LotBoxWrapper{
+    background-color:white;
+    border:1px solid black;
+    border-radius: 15px;
+    padding:10px;
+    min-width: 700px;
+    overflow: hidden;
+    max-height: 115px;
+    height:90px;
+
+}
+
+.LotBoxIcon{
+    height:50px;
+    width: 50px;
+    /*border:1px solid red;*/
+    display: inline-block;
+}
+
+.LotBoxCaption{
+    display:inline-block;
+    margin-left:5px;
+    font-weight: bold;
+}
+
+.LotBoxCosts{
+
+}
+
+.infoBlock{
+    display:inline-block;
+    /*border:1px solid black;*/
+}
+
+.StatusWrapper{
+    float:right;
+    font-weight:bold;
+}
+
+.closeButton{
+    margin-left:10px;
+}

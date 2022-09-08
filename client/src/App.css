@@ -1,0 +1,55 @@
+.app-wrapper{
+    height:100vh;
+    overflow:hidden;
+}
+
+.header{
+    height:7.5vh;
+    background-color:black;
+    padding:5px;
+
+}
+
+.header a{
+    text-decoration: none;
+    color:white;
+    font-weight:bold;
+    margin-left:10px;
+    margin-right:10px;
+    user-select:none;
+
+}
+
+.content{
+    background-color: #ffdf76;
+    height:85vh;
+    overflow-y: auto;
+    overflow-x:hidden;
+}
+
+.footer{
+    display:flex;
+    margin-top:auto;
+    height:7.5vh;
+    background-color: black;
+    position: relative;
+    overflow:hidden;
+}
+
+.footer b{
+    color:gray;
+    position: absolute;
+    right:10px;
+    top:5px;
+}
+
+.block-center{
+    display:block;
+    margin:0 auto;
+    width:fit-content;
+}
+
+.flex{
+    display:flex;
+}
+

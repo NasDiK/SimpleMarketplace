@@ -1,0 +1,14 @@
+.cardWrapper{
+    height:100%;
+    width:100%;
+    border:1px solid black;
+    background:white;
+}
+
+.cardImg{
+    display:block;
+    margin:0 auto;
+    height:250px;
+    width:250px;
+    border:1px solid black;
+}

@@ -1,0 +1,39 @@
+.wrapper{
+    overflow:hidden;
+    background-color:aquamarine;
+    color:white;
+    height: 100vh;
+}
+
+
+.AuthWrapper{
+    background-color:rgba(0,0,0,0.7);
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.AuthWrapper span{
+    cursor:pointer;
+}
+
+.AuthWrapper span:hover{
+    transition: 0.2s all;
+    color:red;
+}
+
+.title{
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.AuthHeader{
+    padding:10px;
+    background-color:rgba(0,0,0,0.7);
+}
+
+.AuthContent{
+    padding:15px 15px 10px 15px;
+}
+
+
+
